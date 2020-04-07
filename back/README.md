@@ -7,3 +7,7 @@ npm i mysql2
 mysql2 -> 노드랑 mysql을 이어주는 드라이버
 npm i -D sequelize-cli
 npx sequelize init
+
+2020/04/07
+
+npm i -D nodemon
