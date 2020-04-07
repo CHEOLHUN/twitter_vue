@@ -11,3 +11,4 @@ npx sequelize init
 2020/04/07
 
 npm i -D nodemon
+깃허브 메일 바꿈
